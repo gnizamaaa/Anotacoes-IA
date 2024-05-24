@@ -1,5 +1,5 @@
 Teste de hipótese e estatística
-Identidificação de fontes de variações que precisam ser controladas em testes
+Identificação de fontes de variações que precisam ser controladas em testes
 - Variação na seleção do conjunto de teste
 - Variação na seleção do conjunto de treinamento
 	Muita coisa em comum entre os treinamentos, tem uma dependência entre os conjuntos de treino, em validação cruzada com 5 folds eh 60% de semelhança, com 10 eh 80%

@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c1bbb13f9686f4e3",
+        "id": "736f9ac3aadd2e6c",
         "type": "tabs",
         "children": [
           {
-            "id": "46302a5bdd31fa37",
+            "id": "59e29c9954f2b447",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Pré-Processamento de Dados.md",
+                "file": "AI/Projeto e Avaliação de Testes Estatísticos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36b23bb5801f6f77",
+            "id": "f92005dcabcfc869",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas probabilísticos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b382bbfd80b271c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redes Neurais Artificiais.md",
+                "file": "AI/Conceitos básicos de Aprendizado de Máquina.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes Neurais Artificiais.md",
+                "file": "AI/Conceitos básicos de Aprendizado de Máquina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes Neurais Artificiais.md",
+                "file": "AI/Conceitos básicos de Aprendizado de Máquina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes Neurais Artificiais.md"
+                "file": "AI/Conceitos básicos de Aprendizado de Máquina.md"
               }
             }
           }
@@ -171,19 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b382bbfd80b271c",
+  "active": "203e48a6b1680b08",
   "lastOpenFiles": [
+    "Pasted image 20240524013107.png",
     "Sistemas probabilísticos.md",
     "Redes Neurais Artificiais.md",
-    "Pasted image 20240520151843.png",
+    "AI/Sistemas probabilísticos.md",
+    "AI/Redes Neurais Artificiais.md",
+    "AI/Projeto e Avaliação de Testes Estatísticos.md",
     "AI/Pré-Processamento de Dados.md",
+    "AI/Classificadores.md",
+    "AI/Combinação de classificadores.md",
+    "AI/Conceitos básicos de Aprendizado de Máquina.md",
+    "AI/Superajuste e Reamostragem.md",
+    "AI/22-04.md",
+    "AI/Pasted image 20240401163128.png",
+    "Pasted image 20240520151843.png",
     "Pasted image 20240506164055.png",
     "Pasted image 20240506163854.png",
     "Pasted image 20240506163819.png",
-    "AI/Classificadores.md",
-    "Pasted image 20240422160620.png",
-    "AI/Superajuste e Reamostragem.md",
-    "AI/Projeto e Avaliação de Testes Estatísticos.md",
-    "AI/22-04.md"
+    "Pasted image 20240422160620.png"
   ]
 }
