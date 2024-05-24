@@ -1,4 +1,4 @@
-**Bays, Probabilisticos e Naive** Bayes
+**Bayes, Probabilísticos e Naive Bayes**
 # Teorema de Bayes
 Utilizado para inferência estatística
 Atualiza estimativas da probabilidade de que diferentes hipóteses sejam verdadeiras
@@ -36,7 +36,6 @@ Solução 2: adicionar 1 unidade a cada combinação de classes e evidências (L
 
 ## Problema dos Atributos Numéricos
 Como tratar quando os atributos são numéricos, reais, e não discretos como no caso anterior?
-
 ### Soluções
 - Discretizar e tratar como um atributo nominal
 	- Seja com base na mediana, ou de forma arbitrária (um chute estudado, na falta de informação é valido) ou com base em algum conhecimento do domínio
@@ -45,14 +44,12 @@ Como tratar quando os atributos são numéricos, reais, e não discretos como no
 		- Msm frequência de valores (quando a frequencia de aparição importa mais)
 		- K-means -> minimizar a soma da distância do centro de gravidade de cada intervalo
 - Seja assumindo que os dados possuem uma distribuição de probabilidade Normal ou Gaussiana (sem saber mesmo se o os dados tem mesmo essa distribuição, não tem como saber pq só temos amostra
-
 ## Problema de Valores Desconhecidos
 Pode ocorrer que algum dos valores dos atributos das entradas de treinamento seja desconhecido
 **Solução:** Desconsiderar esse atributo, essa característica, já que não há nenhuma informação sobre
 **Soluções menos efetivas**
 	Substituir pelo valor mais frequente (moda) ou média
 	Considerar um valor próximo
-
 ## Discussões
 Trabalha com a assunção INCORRETA de que as características são independentes, mas como influencia de forma parecida tanto para sim quanto para não
 Quando temos mais atributos redundantes temos mais problemas

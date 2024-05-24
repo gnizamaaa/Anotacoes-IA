@@ -12,18 +12,18 @@ Filtrar apenas informações relevantes, tratar algumas informações incompleta
 Filtrar falhas ou no sistema/medição ou humana
 
 Para a ausência de dados:
-Ignorar a tupla - Ideal qnd tem muito dado, n vai fazer falta
+Ignorar a tupla - Ideal quando tem muito dado e não vai fazer falta
 Completar manualmente - Quando tem um especialista disponível
 Utilizar um valor especial para "desconhecido", unknown - Limita os algoritmos que poderão ser utilizados, pode levar a um viés
-Uso do valor médio do atribuito no conjunto de dados, ou sobre todas as tuplas pertencentes a uma classe. Basicamente o uso do valor mais provável baseado em alguma heurística, alguma espectativa- Um "chute", uma estimativa, estudado, com isso há a possibilidade de inserir dados incorretos
+Uso do valor médio do atributo no conjunto de dados, ou sobre todas as tuplas pertencentes a uma classe. Basicamente o uso do valor mais provável baseado em alguma heurística, alguma expectativa- Um "chute", uma estimativa, estudado, com isso há a possibilidade de inserir dados incorretos
 
 # Ruído
 Qualquer erro ou variação em medições
-Outlier - Um valor que distoa significativamente do esperado, uma anomalia, que foge muito do padrão. Uma fraude em um banco, um terremoto, uma falha do equipamento de medição
+**Outlier** - Um valor que destoa significativamente do esperado, uma anomalia, que foge muito do padrão. Uma fraude em um banco, um terremoto, uma falha do equipamento de medição
 Podemos "suavizar" os dados, usar uma média móvel por exemplo, a fim de amenizar as consequências do ruído e facilitar a identificação de padrões
 Estratégias para identificar os outliers:
 - Agrupamento: quem não se encontra em nenhum grupo é um outlier
-- Regressão linear: faz uma curva e os valores que distoam muito nessa curva é considerado como 
+- Regressão linear: faz uma curva//função e os valores que destoam muito nessa curva é considerado como 
 
 # Integração de dados
 União de dados de fontes distintas
