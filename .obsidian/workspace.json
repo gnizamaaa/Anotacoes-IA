@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb19d85dce424ebb",
+            "id": "88cd52a70b810671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Busca.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dd9ae39a0c5faf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Agrupamento - Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9db658a6286909a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Regras de Associação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ecbdb2d6e1b5b9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Segundo trabalho.md",
+                "file": "AI/Sistemas Baseados em Conhecimento.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Regras de Associação.md",
+                "file": "AI/Sistemas Baseados em Conhecimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Regras de Associação.md",
+                "file": "AI/Sistemas Baseados em Conhecimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Regras de Associação.md"
+                "file": "AI/Sistemas Baseados em Conhecimento.md"
               }
             }
           }
@@ -184,8 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9db658a6286909a7",
+  "active": "88cd52a70b810671",
   "lastOpenFiles": [
+    "Pasted image 20240626153802.png",
+    "AI/Regras de Associação.md",
+    "AI/Sistemas Baseados em Conhecimento.md",
     "Pasted image 20240624161304.png",
     "Pasted image 20240624155338.png",
     "Pasted image 20240624152646.png",
@@ -193,7 +159,6 @@
     "Pasted image 20240624152440.png",
     "Pasted image 20240624152040.png",
     "AI/Agrupamento - Clustering.md",
-    "AI/Regras de Associação.md",
     "Pasted image 20240619152625.png",
     "Pasted image 20240619152232.png",
     "Pasted image 20240617155314.png",
@@ -209,7 +174,6 @@
     "AI/Superajuste e Reamostragem.md",
     "AI/Sistemas probabilísticos 1.md",
     "AI/Segundo trabalho.md",
-    "Pasted image 20240610160316.png",
     "AI/Pergunta das métricas.md",
     "AI/Pré-Processamento de Dados.md",
     "AI/22-04.md"
