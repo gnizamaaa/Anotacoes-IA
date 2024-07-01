@@ -45,8 +45,7 @@ Geralmente não determinístico e fáceis de se adaptar a novos problemas
 Definem uma infraestrutura para a criação de procedimentos heurístico, como um framework de heurística, a parte geral que será utilizada quando necessário
 
 **Diversificação** -> Fase inicial que visa explorar o espaço de estados 
-**Intensificação** -> Fase final que visa aprimorar o resultado encontrado em região específica do espaço de
-estados
+**Intensificação** -> Fase final que visa aprimorar o resultado encontrado em região específica do espaço de estados
 
 Duas "categorias", soluções parciais e soluções completas.
 
