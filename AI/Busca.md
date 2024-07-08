@@ -210,6 +210,10 @@ Mutação -> Muda alguma característica do DNA, um gene
 ![[Pasted image 20240610153005.png]]
 
 Repor inviáveis -> Descartar e selecionar outras
+
+## Fluxo de trabalho
+População -> Faz a seleção e seleciona n vezes (mantem o tamanho da pop msm dps da seleção, vai ter duplicado, baseado na roleta) -> Faz crossover sobre 60% aleatório dessa nova pop, 2 pais gerando 2 filhos -> Faz mutação sobre 10% aleatórios dessa pop
+
 ## Seleção
 Idealmente queremos que convirja para uma classe só mas cuitado que um qnd convege precocemente pode estar em um mínimo local
 

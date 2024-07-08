@@ -37,6 +37,8 @@ Se os grupos não mudaram todas as iterações a partir daí serão iguais
 
 Pode acontecer um loop com um indivíduo rodando entre grupos, para não ficar para sempre sem convergir devemos limitar o número de iterações
 
+Obs: No inicio, as centróides podem ser completamente aleatórias, n ser um ponto, só uma coordenada
+
 ## Problemas
 Tende a formar grupos esféricos -> Por minimizar a distância de centróide
 A escolha inicial dos centroides tem grande influência
@@ -58,6 +60,9 @@ Uso de um algoritmo guloso p definir os centróides iniciais e depois aplica o k
 
 Primeiro centróide selecionado aleatoriamente
 Outros centróides selecionados com probabilidade proporcional a maior distância para os centróides anteriores
+
+Seleciona um centroide aleatóriamente -> roda uma roleta entre os pontos tendendo aos mais distantes -> seleciona o ponto e calcula a centróide entre a centroide inicial e esse ponto escolhido -> roda a roleta dnv agr com a centróide e os pontos restantes ...
+Assim q obter a quantidade de centróides, começa o kmeans desse estado
 
 # Hierárquico Aglomerativo
 A cada passo, um grupo se une a outro
@@ -109,6 +114,15 @@ Se tiver um CORE POINT que liga dois grupos, os dois grupos são na verdade um �
 ## Algoritmo
 ![[Pasted image 20240619152625.png]]
 
+## Vantagens e desvantagens
+### Vantagens
+- Trata ruído
+- N tem tendencia a formatos esféricos, não tem padrão enviesado
+- N precisa definir o número de grupos
+### Desvantagens
+- Depende do ponto inicial que começa
+	- Não vai gerar a mesma distribuição toda vez
+
 ## Trabalhando com dados categóricos
 A distância euclideana, Manhattan e Hamming vai ser sempre zero ou um, dando mais peso que as outras características, numéricas (q vai ter valores entre 0 e 1), oq pode não ser ideal.
 
@@ -131,4 +145,3 @@ Coeficiente de Silhueta
 	![[Pasted image 20240708012029.png]]
 	Valores altos para agrupamentos densos e bem separados, limitados entre -1 (Mais errado) e +1 (Altamente denso)
 	Desvantagem: Maiores valores p agrupamentos "esféricos" e alta complexidade computacional
-	

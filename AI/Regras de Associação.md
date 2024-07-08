@@ -82,6 +82,9 @@ Para um itemset com mais de 2, gerará subconjuntos dentro dele, mas sem subdivi
 Ex.: (a,b,d) -> {(a,b), (a,d), (b,d)}
 E calcula a confiança de sup(a,b,d)/sup(a,b) = **conf(a^b -> d)** por exemplo
 
+Foto com um itemset de 3 elementos e as regras a serem testadas decorrente dele
+![[Pasted image 20240708154537.png]]
+
 **Fazer alguns exercícios sobre isso, para amadurecer saporr na cabeça**
 Sempre cai alguma questão dessa na prova, btw
 

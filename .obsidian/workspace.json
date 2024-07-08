@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berilhes - Ultimo/Retomando - Passar p caderno dps.md",
+                "file": "AI/Busca.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "fcd7404c6dc256ae",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berilhes - Ultimo/Retomando - Passar p caderno dps.md",
+                "file": "AI/Busca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berilhes - Ultimo/Retomando - Passar p caderno dps.md",
+                "file": "AI/Busca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berilhes - Ultimo/Retomando - Passar p caderno dps.md"
+                "file": "AI/Busca.md"
               }
             }
           }
@@ -149,15 +148,18 @@
   },
   "active": "574c977ca815e745",
   "lastOpenFiles": [
-    "Pasted image 20240708012029.png",
+    "AI/Agrupamento - Clustering.md",
+    "AI/Classificadores.md",
+    "AI/Regras de Associação.md",
+    "Pasted image 20240708154537.png",
+    "AI/Sistemas Baseados em Conhecimento.md",
     "Berilhes - Ultimo/Retomando - Passar p caderno dps.md",
+    "Pasted image 20240708012029.png",
     "Pasted image 20240708133052.png",
     "AI/Busca.md",
     "AI/Regressão.md",
-    "AI/Regras de Associação.md",
     "Berilhes - Ultimo",
     "Berilhes - Ultimoh",
-    "AI/Sistemas Baseados em Conhecimento.md",
     "AI/Conceitos básicos de Aprendizado de Máquina.md",
     "Pasted image 20240701153849.png",
     "Pasted image 20240701153115.png",
@@ -170,12 +172,8 @@
     "AI/Sistemas probabilísticos 1.md",
     "Pasted image 20240626153802.png",
     "Pasted image 20240624161304.png",
-    "Pasted image 20240624155338.png",
-    "Pasted image 20240624152646.png",
-    "AI/Agrupamento - Clustering.md",
     "AI/Redes Neurais Artificiais 1.md",
     "AI/Redes Neurais Artificiais.md",
-    "AI/Classificadores.md",
     "AI/Projeto e Avaliação de Testes Estatísticos.md",
     "AI/Segundo trabalho.md",
     "AI/Pergunta das métricas.md",
