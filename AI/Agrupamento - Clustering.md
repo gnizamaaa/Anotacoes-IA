@@ -118,7 +118,7 @@ $$SSE = \sum_{j=1}^{K} \sum_{\mathbf{x}_i \in C_j} \|\mathbf{x}_i - \boldsymbol{
 	Só vai servir para comparar soluções com o mesmo número de grupos apenas, a monotonicidade faz com q o valor do SSE diminua com o crescimento da quantidade de grupos
 	Valoriza soluções de agrupamento esférico
 	
-ARI -Adjusted Rand Index **Se você sabe o agrupamento ideal (requer fround truth)**
+ARI -Adjusted Rand Index **Se você sabe o agrupamento ideal (requer ground truth)**
 	Verifica quão semelhante o agrupamento obtido pelo algoritmo equivale ao agrupamento de que deveria ser
 	1 = Score perfeito
 	0 = Score equivalente ao agrupamento aleatório
@@ -128,6 +128,7 @@ Coeficiente de Silhueta
 	Silhueta de um elemento é:
 	- A: distância média do elemento para todos os outros dentro do grupo
 	- B: distância média do elemento para todos os elementos do grupo mais próximo
+	![[Pasted image 20240708012029.png]]
 	Valores altos para agrupamentos densos e bem separados, limitados entre -1 (Mais errado) e +1 (Altamente denso)
 	Desvantagem: Maiores valores p agrupamentos "esféricos" e alta complexidade computacional
 	

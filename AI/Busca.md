@@ -275,8 +275,7 @@ Ex.: Colônia de Formigas -> Sempre (frequentemente, pq o caminho é forte) vão
 	Principalmente aplicado em caixeiro viajante
 
 # Enxame de Partículas
-Inicialmente focado em Otimização Contínua mas pode ser adaptado para Otimização
-Combinatória
+Inicialmente focado em Otimização Contínua mas pode ser adaptado para otimização combinatória
 Inspirada na observação do comportamento de enxame de peixes ou pássaros
 
 Tem um bando de pássaros se movendo pelo espaço (estados válidos), um influenciando o outro em busca de um valor ótimo da função objetivo

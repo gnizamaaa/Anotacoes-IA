@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "987fcd5c871955bd",
+        "id": "9e6560cf98a68fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "88cd52a70b810671",
+            "id": "e8477d5aac1cf60a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Sistemas Baseados em Conhecimento.md",
+                "file": "AI/Agrupamento - Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SUperajuste",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "fcd7404c6dc256ae",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Sistemas Baseados em Conhecimento.md",
+                "file": "AI/Agrupamento - Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Sistemas Baseados em Conhecimento.md",
+                "file": "AI/Agrupamento - Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Sistemas Baseados em Conhecimento.md"
+                "file": "AI/Agrupamento - Clustering.md"
               }
             }
           }
@@ -147,35 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88cd52a70b810671",
+  "active": "e8477d5aac1cf60a",
   "lastOpenFiles": [
-    "Pasted image 20240626153802.png",
-    "AI/Regras de Associação.md",
+    "Pasted image 20240708012029.png",
     "AI/Sistemas Baseados em Conhecimento.md",
+    "AI/Busca.md",
+    "AI/Conceitos básicos de Aprendizado de Máquina.md",
+    "AI/Regras de Associação.md",
+    "AI/Classificadores.md",
+    "AI/Agrupamento - Clustering.md",
+    "AI/Redes Neurais Artificiais.md",
+    "AI/Projeto e Avaliação de Testes Estatísticos.md",
+    "AI/Combinação de classificadores.md",
+    "AI/Pasted image 20240401163157.png",
+    "AI/Pré-Processamento de Dados.md",
+    "AI/Redes Neurais Artificiais 1.md",
+    "AI/Segundo trabalho.md",
+    "AI/Sistemas probabilísticos.md",
+    "AI/22-04.md",
+    "AI/Pasted image 20240401163128.png",
+    "AI/Pergunta das métricas.md",
+    "AI/Superajuste e Reamostragem.md",
+    "AI/Sistemas probabilísticos 1.md",
+    "Pasted image 20240626153802.png",
     "Pasted image 20240624161304.png",
     "Pasted image 20240624155338.png",
     "Pasted image 20240624152646.png",
     "Pasted image 20240624152527.png",
     "Pasted image 20240624152440.png",
     "Pasted image 20240624152040.png",
-    "AI/Agrupamento - Clustering.md",
-    "Pasted image 20240619152625.png",
-    "Pasted image 20240619152232.png",
-    "Pasted image 20240617155314.png",
-    "AI/Busca.md",
-    "AI/Redes Neurais Artificiais 1.md",
-    "AI/Redes Neurais Artificiais.md",
-    "AI/Conceitos básicos de Aprendizado de Máquina.md",
-    "AI/Pasted image 20240401163128.png",
-    "AI/Combinação de classificadores.md",
-    "AI/Classificadores.md",
-    "AI/Sistemas probabilísticos.md",
-    "AI/Projeto e Avaliação de Testes Estatísticos.md",
-    "AI/Superajuste e Reamostragem.md",
-    "AI/Sistemas probabilísticos 1.md",
-    "AI/Segundo trabalho.md",
-    "AI/Pergunta das métricas.md",
-    "AI/Pré-Processamento de Dados.md",
-    "AI/22-04.md"
+    "Pasted image 20240619152625.png"
   ]
 }
