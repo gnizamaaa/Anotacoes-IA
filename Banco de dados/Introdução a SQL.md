@@ -104,6 +104,34 @@ where dept_name = 'Comp. Sci.'
 Mesmo comportamento da algebra relacional, inclusive o renomeamento para contornar quando teria o mesmo nome (em que colocamos o nomeTabela.nomeAtributo)
 	select ∗
 	from instructor, teaches
+Também pode fazer com join ou cross join
+	select *
+	from instructor join teaches
+
+**Natural Join**
+Aqui existe natural join tranquilo
+	select *
+	from instructor natural join teaches
+Se não tem colunas em comum o resultado é o produto cartesiano
+
+**Natural Join especificando as características a juntar**
+Também pode usar join ou cross join, usando join dá para fazer igual o natural com expressão anteriormente, fazer join s on r.a=s.b
+	SELECT *
+	FROM circuits join races on (circuits.circuitId = races.circuitId);
+Quando especifica dessa forma, ele não junta as colunas, não vai eliminar as colunas duplicadas
+
+Isso é equivalente a:
+	SELECT *
+	FROM circuits join races
+	where circuits.circuitId = races.circuitId;
+
+Mas também tem uma forma menos genérica para quando é igual e tem nomes iguais nas duas tabelas, mas que já tira as colunas duplicadas:
+	SELECT *
+	FROM circuits join races using (circuitId);
+
+**Aqui a gnt pode fazer operações aritméticas sob colunas de um jeito mais simples**
+	select ID, name, salary/12
+	from instructor
 
 **Operando com string**
 Utilizamos like como na algebra
@@ -126,3 +154,34 @@ Exemplo:
 	select distinct name
 	from instructor
 	order by name
+Quando ordena com múltiplos fatores, ordena dando prioridade p o primeiro, o da esquerda, nesse caso dept_name
+	order by dept_name, name
+
+**Comparador between**
+Repare que aqui é Maior igual e menor igual, ou seja ≥ $90,000 and ≤ $100,000
+	select name from instructor where salary between 90000 and 100000
+
+**Intersect**
+Se atente que se tiver dois elementos iguais, ele só vai "cortar" um
+Ex.:
+	(select course_id from section where sem = 'Fall' and year = 2017)
+	intersect
+	(select course_id from section where sem = 'Spring' and year = 2018)
+
+R intersect s = r - (r-s)
+
+**Group by**
+É o gamma do anterior, divide em grupos com base em uma coluna, valor igual na coluna = mesmo grupo
+Ex.:
+	select dept_name, avg (salary) as avg_salary 
+	from instructor 
+	group by dept_name;
+![[Pasted image 20240711145604.png]]
+
+**Having**
+Podemos colocar cláusulas para "filtrar" antes de fazer esse agrupamento
+Ex.:
+	select dept_name, avg (salary) as avg_salary 
+	from instructor 
+	group by dept_name 
+	having avg (salary) > 42000;

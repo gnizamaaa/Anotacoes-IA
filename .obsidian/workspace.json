@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Busca.md",
+                "file": "Banco de dados/Introdução a SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "fcd7404c6dc256ae",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Busca.md",
+                "file": "Banco de dados/Introdução a SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Busca.md",
+                "file": "Banco de dados/Introdução a SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Busca.md"
+                "file": "Banco de dados/Introdução a SQL.md"
               }
             }
           }
@@ -148,6 +149,8 @@
   },
   "active": "574c977ca815e745",
   "lastOpenFiles": [
+    "Pasted image 20240711145604.png",
+    "AI/Busca.md",
     "AI/Agrupamento - Clustering.md",
     "AI/Classificadores.md",
     "AI/Regras de Associação.md",
@@ -156,7 +159,6 @@
     "Berilhes - Ultimo/Retomando - Passar p caderno dps.md",
     "Pasted image 20240708012029.png",
     "Pasted image 20240708133052.png",
-    "AI/Busca.md",
     "AI/Regressão.md",
     "Berilhes - Ultimo",
     "Berilhes - Ultimoh",
