@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d182cb9d2354874",
+        "id": "94d6403453d4b871",
         "type": "tabs",
         "children": [
           {
-            "id": "574c977ca815e745",
+            "id": "e8d09a99a28f02ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de dados/Introdução a SQL.md",
+                "file": "Segurança/Software Malicioso - Malware.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de dados/Introdução a SQL.md",
+                "file": "Segurança/Software Malicioso - Malware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de dados/Introdução a SQL.md",
+                "file": "Segurança/Software Malicioso - Malware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de dados/Introdução a SQL.md"
+                "file": "Segurança/Software Malicioso - Malware.md"
               }
             }
           }
@@ -147,8 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "574c977ca815e745",
+  "active": "203e48a6b1680b08",
   "lastOpenFiles": [
+    "Segurança/Software Malicioso - Malware.md",
+    "Untitled 1.md",
+    "Segurança",
+    "Banco de dados/Introdução a SQL.md",
     "Pasted image 20240711145604.png",
     "AI/Busca.md",
     "AI/Agrupamento - Clustering.md",
@@ -173,7 +177,6 @@
     "AI/Sistemas probabilísticos.md",
     "AI/Sistemas probabilísticos 1.md",
     "Pasted image 20240626153802.png",
-    "Pasted image 20240624161304.png",
     "AI/Redes Neurais Artificiais 1.md",
     "AI/Redes Neurais Artificiais.md",
     "AI/Projeto e Avaliação de Testes Estatísticos.md",
