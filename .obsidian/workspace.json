@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fb64b751b38d151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segurança/DoS & DDoS - Negação de Serviço.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Software Malicioso - Malware.md",
+                "file": "Segurança/DoS & DDoS - Negação de Serviço.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Software Malicioso - Malware.md",
+                "file": "Segurança/DoS & DDoS - Negação de Serviço.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Software Malicioso - Malware.md"
+                "file": "Segurança/DoS & DDoS - Negação de Serviço.md"
               }
             }
           }
@@ -147,12 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "203e48a6b1680b08",
+  "active": "2fb64b751b38d151",
   "lastOpenFiles": [
     "Segurança/Software Malicioso - Malware.md",
+    "Segurança/DoS & DDoS - Negação de Serviço.md",
+    "Banco de dados/Introdução a SQL.md",
     "Untitled 1.md",
     "Segurança",
-    "Banco de dados/Introdução a SQL.md",
     "Pasted image 20240711145604.png",
     "AI/Busca.md",
     "AI/Agrupamento - Clustering.md",
