@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "94d6403453d4b871",
+        "id": "316ef5d288c97cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "e8d09a99a28f02ce",
+            "id": "79ef286e7f5cb1f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança/Software Malicioso - Malware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fb64b751b38d151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segurança/DoS & DDoS - Negação de Serviço.md",
+                "file": "Berilhes - Ultimo/Resolvendo relações de recorrência com Funções Geradoras- 5 de Agosto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/DoS & DDoS - Negação de Serviço.md",
+                "file": "Berilhes - Ultimo/Resolvendo relações de recorrência com Funções Geradoras- 5 de Agosto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/DoS & DDoS - Negação de Serviço.md",
+                "file": "Berilhes - Ultimo/Resolvendo relações de recorrência com Funções Geradoras- 5 de Agosto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/DoS & DDoS - Negação de Serviço.md"
+                "file": "Berilhes - Ultimo/Resolvendo relações de recorrência com Funções Geradoras- 5 de Agosto.md"
               }
             }
           }
@@ -160,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fb64b751b38d151",
+  "active": "79ef286e7f5cb1f7",
   "lastOpenFiles": [
-    "Segurança/Software Malicioso - Malware.md",
-    "Segurança/DoS & DDoS - Negação de Serviço.md",
-    "Banco de dados/Introdução a SQL.md",
     "Untitled 1.md",
+    "Berilhes - Ultimo/Resolvendo relações de recorrência com Funções Geradoras- 5 de Agosto.md",
+    "Segurança/DoS & DDoS - Negação de Serviço.md",
+    "Segurança/Software Malicioso - Malware.md",
+    "Banco de dados/Introdução a SQL.md",
     "Segurança",
     "Pasted image 20240711145604.png",
     "AI/Busca.md",
