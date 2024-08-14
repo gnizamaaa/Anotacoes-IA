@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb6c1a30ddd935d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segurança/Ataques de Intrusão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Berilhes - Ultimo/Resolvendo relações de recorrência com Funções Geradoras- 5 de Agosto.md",
+                "file": "Segurança/Ataques de Intrusão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Berilhes - Ultimo/Resolvendo relações de recorrência com Funções Geradoras- 5 de Agosto.md",
+                "file": "Segurança/Ataques de Intrusão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Berilhes - Ultimo/Resolvendo relações de recorrência com Funções Geradoras- 5 de Agosto.md"
+                "file": "Segurança/Ataques de Intrusão.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79ef286e7f5cb1f7",
+  "active": "bb6c1a30ddd935d9",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Berilhes - Ultimo/Resolvendo relações de recorrência com Funções Geradoras- 5 de Agosto.md",
+    "Segurança/Ataques de Intrusão.md",
+    "Untitled 1.md",
     "Segurança/DoS & DDoS - Negação de Serviço.md",
     "Segurança/Software Malicioso - Malware.md",
     "Banco de dados/Introdução a SQL.md",
