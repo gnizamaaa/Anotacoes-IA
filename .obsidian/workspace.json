@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "01f21cf47505174c",
+        "id": "a72eee21658f71bf",
         "type": "tabs",
         "children": [
           {
-            "id": "a59c486fb11b5dbd",
+            "id": "7b3dbb3e4ba22c2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de dados/Processamento de consultas.md",
+                "file": "Segurança/Firewalls e Sistemas de Prevenção de Intrusão.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a9fa58889d96afd4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Explain",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "fcd7404c6dc256ae",
@@ -93,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de dados/Processamento de consultas.md",
+                "file": "Segurança/Firewalls e Sistemas de Prevenção de Intrusão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de dados/Processamento de consultas.md",
+                "file": "Segurança/Firewalls e Sistemas de Prevenção de Intrusão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de dados/Processamento de consultas.md"
+                "file": "Segurança/Firewalls e Sistemas de Prevenção de Intrusão.md"
               }
             }
           }
@@ -154,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "203e48a6b1680b08",
+  "active": "7b3dbb3e4ba22c2b",
   "lastOpenFiles": [
+    "AI/Redes Neurais Artificiais.md",
+    "Segurança/Firewalls e Sistemas de Prevenção de Intrusão.md",
     "Banco de dados/Processamento de consultas.md",
     "WhatsApp Image 2024-08-15 at 2.45.07 PM.jpeg",
     "WhatsApp Image 2024-08-15 at 2.38.21 PM.jpeg",
@@ -189,7 +184,6 @@
     "AI/Sistemas probabilísticos.md",
     "AI/Sistemas probabilísticos 1.md",
     "AI/Redes Neurais Artificiais 1.md",
-    "AI/Redes Neurais Artificiais.md",
     "AI/Projeto e Avaliação de Testes Estatísticos.md",
     "AI/Segundo trabalho.md",
     "AI/Pergunta das métricas.md",
