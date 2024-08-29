@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56989cf92dc6a9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banco de dados/Modelo E-R.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Firewalls e Sistemas de Prevenção de Intrusão.md",
+                "file": "Banco de dados/Modelo E-R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Firewalls e Sistemas de Prevenção de Intrusão.md",
+                "file": "Banco de dados/Modelo E-R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Firewalls e Sistemas de Prevenção de Intrusão.md"
+                "file": "Banco de dados/Modelo E-R.md"
               }
             }
           }
@@ -147,13 +160,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b3dbb3e4ba22c2b",
+  "active": "56989cf92dc6a9fa",
   "lastOpenFiles": [
-    "AI/Redes Neurais Artificiais.md",
+    "Pasted image 20240829144932.png",
+    "Pasted image 20240829144907.png",
+    "Pasted image 20240829144437.png",
+    "Pasted image 20240829144008.png",
+    "Pasted image 20240829143742.png",
+    "Pasted image 20240829143222.png",
+    "Pasted image 20240829141322.png",
+    "Pasted image 20240829141036.png",
+    "Pasted image 20240829134912.png",
+    "Pasted image 20240829133305.png",
+    "Pasted image 20240829132741.png",
     "Segurança/Firewalls e Sistemas de Prevenção de Intrusão.md",
+    "Banco de dados/Modelo E-R.md",
+    "AI/Redes Neurais Artificiais.md",
     "Banco de dados/Processamento de consultas.md",
-    "WhatsApp Image 2024-08-15 at 2.45.07 PM.jpeg",
-    "WhatsApp Image 2024-08-15 at 2.38.21 PM.jpeg",
     "Berilhes - Ultimo/Resolvendo relações de recorrência com Funções Geradoras- 5 de Agosto.md",
     "Segurança/Ataques de Intrusão.md",
     "Untitled 1.md",
@@ -161,32 +184,22 @@
     "Segurança/Software Malicioso - Malware.md",
     "Banco de dados/Introdução a SQL.md",
     "Segurança",
-    "Pasted image 20240711145604.png",
     "AI/Busca.md",
     "AI/Agrupamento - Clustering.md",
     "AI/Classificadores.md",
     "AI/Regras de Associação.md",
-    "Pasted image 20240708154537.png",
     "AI/Sistemas Baseados em Conhecimento.md",
     "Berilhes - Ultimo/Retomando - Passar p caderno dps.md",
-    "Pasted image 20240708012029.png",
-    "Pasted image 20240708133052.png",
     "AI/Regressão.md",
     "Berilhes - Ultimo",
     "Berilhes - Ultimoh",
     "AI/Conceitos básicos de Aprendizado de Máquina.md",
-    "Pasted image 20240701153849.png",
-    "Pasted image 20240701153115.png",
-    "Pasted image 20240701152427.png",
-    "Pasted image 20240701152243.png",
     "AI/Combinação de classificadores.md",
     "AI/Superajuste e Reamostragem.md",
     "AI/Sistemas probabilísticos.md",
     "AI/Sistemas probabilísticos 1.md",
     "AI/Redes Neurais Artificiais 1.md",
     "AI/Projeto e Avaliação de Testes Estatísticos.md",
-    "AI/Segundo trabalho.md",
-    "AI/Pergunta das métricas.md",
-    "AI/Pré-Processamento de Dados.md"
+    "AI/Segundo trabalho.md"
   ]
 }
