@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "fcd7404c6dc256ae",
@@ -147,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18c3c584552408df",
+  "active": "203e48a6b1680b08",
   "lastOpenFiles": [
     "Pasted image 20240904180432.png",
     "Banco de dados/Normalização.md",
